@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Guillermo Pereyra · Ingeniería de Software con IA</title>
+<desc id="desc">Portada de gpereyradev. Desarrollo full stack, inteligencia artificial aplicada y diseño de interfaces.</desc>
+<defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111118"/><stop offset="1" stop-color="#211734"/></linearGradient>
+<linearGradient id="accent" x2="1" y2="1"><stop stop-color="#c8adff"/><stop offset="1" stop-color="#9170ff"/></linearGradient>
+</defs>
+<rect width="1280" height="440" rx="20" fill="url(#bg)"/>
+<rect width="1280" height="440" rx="20" fill="url(#grid)"/>
+<path d="M0 421H1280" stroke="#a88bfa" stroke-width="2" opacity=".25"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="56" y="44" width="34" height="28" rx="7" fill="#b49aff"/>
+<text x="73" y="63" text-anchor="middle" font-size="15" font-weight="700" fill="#171021">GP</text>
+<text x="103" y="64" font-size="17" letter-spacing="2" fill="#c4bed1">GPEREYRADEV</text>
+<text x="56" y="157" font-size="72" font-weight="800" letter-spacing="-3" fill="#faf8ff">Guillermo</text>
+<text x="56" y="233" font-size="72" font-weight="800" letter-spacing="-3" fill="#faf8ff">Pereyra<tspan fill="#b49aff">.</tspan></text>
+<text x="60" y="284" font-size="25" fill="#d8c8ff">Ingeniería de Software con IA</text>
+<text x="60" y="322" font-size="18" fill="#aaa4b7">Del código a una experiencia que puedes explorar.</text>
+<g font-size="13" font-weight="700" letter-spacing="1.5">
+<rect x="58" y="355" width="122" height="34" rx="17" fill="#242030" stroke="#494052"/>
+<text x="119" y="377" text-anchor="middle" fill="#e2d9f5">FULL STACK</text>
+<rect x="190" y="355" width="145" height="34" rx="17" fill="#242030" stroke="#494052"/>
+<text x="263" y="377" text-anchor="middle" fill="#e2d9f5">IA APLICADA</text>
+<rect x="345" y="355" width="91" height="34" rx="17" fill="#242030" stroke="#494052"/>
+<text x="391" y="377" text-anchor="middle" fill="#e2d9f5">UX / UI</text>
+</g>
+<g transform="translate(818 58)">
+<rect width="402" height="326" rx="16" fill="#111117" stroke="#514164"/>
+<path d="M0 45H402" stroke="#3b3049"/>
+<circle cx="23" cy="23" r="5" fill="#a88bfa"/><circle cx="42" cy="23" r="5" fill="#61516f"/><circle cx="61" cy="23" r="5" fill="#61516f"/>
+<text x="378" y="28" font-family="monospace" font-size="12" text-anchor="end" fill="#a39aaf">profile.dev</text>
+<text x="30" y="100" font-family="monospace" font-size="16" fill="#8f859d">01</text>
+<text x="65" y="100" font-family="monospace" font-size="16" fill="#cbb2ff">const</text><text x="123" y="100" font-family="monospace" font-size="16" fill="#e9e3f2"> enfoque = {</text>
+<g font-family="monospace" font-size="15">
+<text x="30" y="137" fill="#8f859d">02</text><text x="86" y="137" fill="#b9afc8">construir:</text><text x="203" y="137" fill="#b8d9cb">"software",</text>
+<text x="30" y="174" fill="#8f859d">03</text><text x="86" y="174" fill="#b9afc8">conectar:</text><text x="203" y="174" fill="#b8d9cb">"datos",</text>
+<text x="30" y="211" fill="#8f859d">04</text><text x="86" y="211" fill="#b9afc8">mejorar:</text><text x="203" y="211" fill="#b8d9cb">"experiencias"</text>
+<text x="30" y="248" fill="#8f859d">05</text><text x="65" y="248" fill="#e9e3f2">};</text>
+</g>
+<path d="M30 274H372" stroke="#302637"/>
+<circle cx="36" cy="299" r="4" fill="#b8d9cb"/><text x="50" y="304" font-family="monospace" font-size="13" fill="#aba1b8">aprendiendo al construir</text>
+</g>
+</g>
+</svg>
