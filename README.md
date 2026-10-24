@@ -23,7 +23,7 @@ Construyo proyectos de **desarrollo full stack, IA aplicada y aplicaciones Andro
 <tr>
 <td width="50%" valign="top">
 <h3>NEXUS AI</h3>
-<a href="https://github.com/gpereyradev/nexus-ai"><img src="./assets/nexus-ai-dashboard.webp" width="100%" alt="Captura real del panel de NEXUS AI en tema oscuro" /></a>
+<a href="https://github.com/gpereyradev/nexus-ai"><img src="./assets/nexus-ai-dashboard.webp?v=2" width="100%" alt="Captura real del panel de NEXUS AI en tema oscuro" /></a>
 <p><strong>Gestión empresarial + analítica.</strong> Ventas, inventario y clientes conectados con reportes y pronósticos. Un proyecto personal que integra frontend, backend, base de datos y aprendizaje automático.</p>
 <p><code>React</code> <code>TypeScript</code> <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Python</code></p>
 <p><a href="https://github.com/gpereyradev/nexus-ai"><strong>Ver código ↗</strong></a> · <a href="https://nexus-ai-gpereyradev.onrender.com/">Abrir demo</a></p>
@@ -31,7 +31,7 @@ Construyo proyectos de **desarrollo full stack, IA aplicada y aplicaciones Andro
 </td>
 <td width="50%" valign="top">
 <h3>NeuroChess</h3>
-<a href="https://neurochess-python.onrender.com/"><img src="./assets/neurochess-desktop.webp" width="100%" alt="Captura real de NeuroChess: tablero de ajedrez, controles y análisis de la IA" /></a>
+<a href="https://neurochess-python.onrender.com/"><img src="./assets/neurochess-desktop.webp?v=2" width="100%" alt="Captura real de NeuroChess: tablero de ajedrez, controles y análisis de la IA" /></a>
 <p><strong>Ajedrez contra un motor en Python.</strong> Minimax con poda alfa-beta, cuatro dificultades y métricas de búsqueda. Incluye pistas, historial, deshacer turnos y exportación de partidas.</p>
 <p><code>Python</code> <code>JavaScript</code> <code>HTML / CSS</code> <code>Minimax</code></p>
 <p><a href="https://github.com/gpereyradev/neurochess-python"><strong>Ver código ↗</strong></a> · <a href="https://neurochess-python.onrender.com/">Jugar ahora</a></p>
@@ -41,7 +41,7 @@ Construyo proyectos de **desarrollo full stack, IA aplicada y aplicaciones Andro
 <tr>
 <td width="50%" valign="top">
 <h3>Tuerka</h3>
-<a href="https://proyecto-tuerka.vercel.app/"><img src="./assets/tuerka-home.webp" width="100%" alt="Captura real de la portada de Tuerka, con identidad negra y amarilla" /></a>
+<a href="https://proyecto-tuerka.vercel.app/"><img src="./assets/tuerka-home.webp?v=2" width="100%" alt="Captura real de la portada de Tuerka, con identidad negra y amarilla" /></a>
 <p><strong>Una web para encontrar vehículos.</strong> Catálogo con filtros, favoritos y fichas de detalle. Proyecto colaborativo que conecta un diseño en Figma con una experiencia web publicada.</p>
 <p><code>React</code> <code>JavaScript</code> <code>Supabase</code> <code>Figma</code></p>
 <p><a href="https://github.com/Dgirto/ProyectoTuerka"><strong>Ver código ↗</strong></a> · <a href="https://proyecto-tuerka.vercel.app/">Visitar web</a></p>
@@ -49,7 +49,7 @@ Construyo proyectos de **desarrollo full stack, IA aplicada y aplicaciones Andro
 </td>
 <td width="50%" valign="top">
 <h3>FitCoach</h3>
-<a href="https://github.com/codainisoftware/fitcoach"><img src="./assets/fitcoach-dashboard.webp" width="100%" alt="Dashboard de FitCoach: captura del diseño de referencia en Figma" /></a>
+<a href="https://github.com/codainisoftware/fitcoach"><img src="./assets/fitcoach-dashboard.webp?v=2" width="100%" alt="Dashboard de FitCoach: captura del diseño de referencia en Figma" /></a>
 <p><strong>Entrenamiento y seguimiento del progreso.</strong> Participo en el backend con Laravel: perfiles, planes, registros y lógica de la aplicación, en coordinación con el equipo.</p>
 <p><code>PHP</code> <code>Laravel</code> <code>Backend</code> <code>Trabajo en equipo</code></p>
 <p><a href="https://github.com/codainisoftware/fitcoach"><strong>Ver repositorio ↗</strong></a> · <a href="https://www.figma.com/design/U2EYU235ZzKVBzhKo8ZweA/FitCoach?node-id=812-1581">Ver diseño</a></p>
